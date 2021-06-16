@@ -5,4 +5,6 @@ Choose spell power, any critical multipliers you have, the caster level of the s
 
 The output is both standard damage and critical damage.
 
+Note: Warlock eldritch blast damage is not supported by this. As the varying blast shape spell power scalars are not accomodated for.
+
 ![Program Window](doc/img/spelldamcalcwindow.PNG)
